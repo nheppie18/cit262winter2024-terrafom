@@ -7,8 +7,8 @@ terraform {
   }
 }
 provider "google" {
-  project     = "secure-granite-397514"
+  project     = "secure-granite-397514"     //change this
   region      = "us-west1"
   zone        = "us-west1-b"
-  credentials = 
+    //credentials = 
 }
